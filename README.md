@@ -1,8 +1,9 @@
-# Global_Terrorism_Analysis
+## Hi, I'm **Rishika!** 👋
+### I'm thrilled to share my latest data endeavor: Global Terrorism Trends Analysis 📈
+
 <img width="672" alt="Global_Terrorism_Dashboard" src="https://github.com/RishikaB-05/Global_Terrorism_Analysis/assets/157221360/f260f7b1-6be5-40ca-8f2d-22a0b16f132b">
 
 
-### I'm thrilled to share my latest data endeavor: Global Terrorism Trends Analysis 📈
 
 ### 🌐 **Data Source:**
 Leveraging an expansive dataset from Kaggle, this project delves into global terrorism records spanning 1979 to 2017.
