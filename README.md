@@ -1,8 +1,8 @@
 ## Hi, I'm **Rishika!** 👋
 ### I'm thrilled to share my latest data endeavor: Global Terrorism Trends Analysis 📈
-
-<img width="672" alt="Global_Terrorism_Dashboard" src="https://github.com/RishikaB-05/Global_Terrorism_Analysis/assets/157221360/f260f7b1-6be5-40ca-8f2d-22a0b16f132b">
-
+<div id="header" align="center">
+<img width="872" alt="Global_Terrorism_Dashboard" src="https://github.com/RishikaB-05/Global_Terrorism_Analysis/assets/157221360/f260f7b1-6be5-40ca-8f2d-22a0b16f132b">
+</div>
 
 
 ### 🌐 **Data Source:**
@@ -20,7 +20,7 @@ I embraced the power of Power BI to create an engaging dashboard, providing a co
 ### 🌟 **Outcome:** 
 An interactive exploration of global terrorism, revealing nuanced insights and contributing to a deeper understanding of the intricate patterns within the data.
 
-✨ **Unravelling Terrorist Attacks:** A staggering 175,230 incidents of terrorist attacks have been documented worldwide, shedding light on the extent of global unrest.   
+ **Unravelling Terrorist Attacks:** A staggering 175,230 incidents of terrorist attacks have been documented worldwide, shedding light on the extent of global unrest.   
 
 ✨ **Civilian Impact:** A collective toll on civilians, 5,387 lives lost and 4,552 individuals wounded, underscores the human cost of these attacks.  
 
