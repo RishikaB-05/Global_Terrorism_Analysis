@@ -22,14 +22,14 @@ An interactive exploration of global terrorism, revealing nuanced insights and c
 
  **Unravelling Terrorist Attacks:** A staggering 175,230 incidents of terrorist attacks have been documented worldwide, shedding light on the extent of global unrest.   
 
-✨ **Civilian Impact:** A collective toll on civilians, 5,387 lives lost and 4,552 individuals wounded, underscores the human cost of these attacks.  
+**Civilian Impact:** A collective toll on civilians, 5,387 lives lost and 4,552 individuals wounded, underscores the human cost of these attacks.  
 
-✨ **Global Reach:** Across 205 countries and 12 religions, terrorism has left his marks, affecting the lives of people in 2,822 different states.  
+**Global Reach:** Across 205 countries and 12 religions, terrorism has left his marks, affecting the lives of people in 2,822 different states.  
 
-✨ **Hostages and Ransom Cases:** A staggering 61,536 individuals were held hostages, and 76,683 cases of ransom paint a vivid picture of personal suffering.  
+**Hostages and Ransom Cases:** A staggering 61,536 individuals were held hostages, and 76,683 cases of ransom paint a vivid picture of personal suffering.  
 
-✨ **Terrorist Casualties:** The other side of the coin, 58,235 terrorists killed and 12,601 wounded, reveals the intricate dynamics of these conflicts.  
+**Terrorist Casualties:** The other side of the coin, 58,235 terrorists killed and 12,601 wounded, reveals the intricate dynamics of these conflicts.  
 
-✨ **Impact on Property:** A price tag of $8,137,852,579 represents the economic toll, illustrating the widespread damage to property and infrastructure.  
+**Impact on Property:** A price tag of $8,137,852,579 represents the economic toll, illustrating the widespread damage to property and infrastructure.  
 
-✨ **Terrorist Landscape:** Amidst the chaos, 3,517 distinct terrorist groups have played a role, shaping the complexity of the global security landscape.  
+**Terrorist Landscape:** Amidst the chaos, 3,517 distinct terrorist groups have played a role, shaping the complexity of the global security landscape.  
