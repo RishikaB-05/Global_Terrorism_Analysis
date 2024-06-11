@@ -19,6 +19,9 @@ I embraced the power of Power BI to create an engaging dashboard, providing a co
 
 ### 🌟 **Outcome:** 
 An interactive exploration of global terrorism, revealing nuanced insights and contributing to a deeper understanding of the intricate patterns within the data.
+<div id="header" align="center">
+<img width="600" alt="region attacked" src="https://github.com/RishikaB-05/Global_Terrorism_Analysis/assets/157221360/240a0d3a-f7e8-4b7f-acbb-09f93b901376">
+</div>
 
  **Unravelling Terrorist Attacks:** A staggering 175,230 incidents of terrorist attacks have been documented worldwide, shedding light on the extent of global unrest.   
 
